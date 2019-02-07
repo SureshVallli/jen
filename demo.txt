@@ -3,3 +3,4 @@ added
 installed git
 
 from slave
+master
